@@ -36,7 +36,7 @@ app.listen(port, () => {
 });
 
 
-const statusMessages = ["PLAYING","MIZU"];
+const statusMessages = ["みずの奴隷BOT"];
 
 
 let currentIndex = 0;
